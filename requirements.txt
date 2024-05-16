@@ -2,3 +2,5 @@ discord.py
 websocket-client
 requests
 coloredlogs
+matplotlib
+pillow
